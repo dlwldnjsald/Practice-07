@@ -11,7 +11,7 @@ public class Sparrow extends Bird {
 	
 	@Override
 	public void fly() {
-		System.out.println("참새(" + getName() + ")가 하늘을 납니다.");
+		System.out.println("참새(" + getName() + ")가 날아다닙니다.");
 	}
 	
 	@Override
