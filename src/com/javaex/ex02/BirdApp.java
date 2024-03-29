@@ -1,4 +1,6 @@
 package com.javaex.ex02;
+// 이 클래스는 수정하지 않습니다// 조건
+
 
 public class BirdApp {
 
