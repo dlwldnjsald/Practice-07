@@ -1,5 +1,6 @@
 package com.javaex.ex01;
 
+//추상클래스로부터 상속받을대는 extends 표기해주기
 public class Ractangle extends Shape{
 	
 	//필드 생성----------------------------
@@ -19,7 +20,7 @@ public class Ractangle extends Shape{
 				+ " #가로:" + width 
 				+" #세로:" + height + "그렸습니다.");                                                                        
 	}
-
+	//----------------------------------------------------
 	//부모가 선언한 추상메서드는 반드시 구현해야 한다-----------------
 	
 	@Override
